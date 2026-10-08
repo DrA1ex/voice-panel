@@ -1,5 +1,9 @@
 # VoicePanel
 
+<p align="center">
+<img width="650" alt="voice-panel" src="https://github.com/user-attachments/assets/0e90c82d-3e7f-4bc8-af36-994d83caf777" />
+</p>
+
 **Speak, release, paste.** VoicePanel is a native macOS menu-bar app that turns
 speech into text from anywhere on your Mac. Hold a shortcut to dictate a quick
 message, record a longer thought, or transcribe an existing audio file.
