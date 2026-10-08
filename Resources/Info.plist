@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>VoicePanel</string>
+	<key>CFBundleExecutable</key>
+	<string>VoicePanel</string>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.dra1ex.VoicePanel</string>
+	<key>CFBundleIconFile</key>
+	<string>VoicePanel.icns</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>VoicePanel</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.10.0</string>
+	<key>CFBundleVersion</key>
+	<string>68</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>VoicePanel needs microphone access to capture speech for local transcription.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>VoicePanel uses the macOS Speech framework for the Apple Speech engine and optional live draft text with local recognition models. Local-model final recognition does not require Speech Recognition permission.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>

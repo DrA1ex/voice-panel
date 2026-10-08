@@ -1,0 +1,20 @@
+.DS_Store
+.build/
+dist/
+.swiftpm/
+.worktrees/
+*.xcuserstate
+/Package.resolved
+
+# Local automation and private diagnostic artifacts
+.zipflow/
+.env
+.env.*
+*.log
+*.pem
+*.p12
+*.key
+
+# Local agent instructions and internal design proposals
+AGENTS.md
+*RFC*.md
